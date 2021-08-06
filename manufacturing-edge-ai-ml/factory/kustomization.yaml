@@ -1,6 +1,6 @@
 bases:
-  - acm_registration
-  - subscriptions_operator
+#  - acm_registration
+#  - subscriptions_operator
   - ../../common/argocd/
   - services/argocd
   - services/edge-devices

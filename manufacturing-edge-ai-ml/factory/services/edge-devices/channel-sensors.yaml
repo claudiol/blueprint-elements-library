@@ -1,10 +1,10 @@
 apiVersion: apps.open-cluster-management.io/v1
 kind: Channel
 metadata:
-  name: manuela-mcs-gitops-channel-sensores
+  name: manuela-mcs-gitops-channel-sensors
   namespace: manuela-sensors-mcs
 spec:
   type: GitHub
-  pathname: https://github.com/ipbabble/manuela-gitops.git
+  pathname: https://github.com/GITHUB-ACCOUNT/manuela-gitops.git
 
 
