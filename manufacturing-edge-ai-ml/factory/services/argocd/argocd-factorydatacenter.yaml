@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/ipbabble/manuela-gitops.git
+    repoURL: https://github.com/GITHUB-ACCOUNT/manuela-gitops.git
     targetRevision: HEAD
     path: deployment/staging-factorydatacenter
   destination:
